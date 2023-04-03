@@ -1,0 +1,50 @@
+<svg id="Слой_4" data-name="Слой 4" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2362.7 1260.44">
+    <defs>
+        <style>
+            .cls-1,.cls-2,.cls-4{fill:none;}.cls-2{stroke:#a5a5a5;stroke-miterlimit:10;stroke-width:5px;}.cls-3{fill:url(#Новый_узор_3);}.cls-4{stroke:#69668f;stroke-linecap:round;stroke-linejoin:round;stroke-width:80px;}.cls-5{fill:#69668f;}</style>
+        <pattern id="Новый_узор_3" data-name="Новый узор 3" width="453.76" height="742.93"
+            patternUnits="userSpaceOnUse" viewBox="0 0 453.76 742.93">
+            <rect class="cls-1" width="453.76" height="742.93" />
+            <line class="cls-2" x1="6.75" x2="6.75" y2="742.93" />
+            <line class="cls-2" x1="20.51" x2="20.51" y2="742.93" />
+            <line class="cls-2" x1="34.27" x2="34.27" y2="742.93" />
+            <line class="cls-2" x1="48.03" x2="48.03" y2="742.93" />
+            <line class="cls-2" x1="61.78" x2="61.78" y2="742.93" />
+            <line class="cls-2" x1="75.54" x2="75.54" y2="742.93" />
+            <line class="cls-2" x1="89.3" x2="89.3" y2="742.93" />
+            <line class="cls-2" x1="103.06" x2="103.06" y2="742.93" />
+            <line class="cls-2" x1="116.82" x2="116.82" y2="742.93" />
+            <line class="cls-2" x1="130.57" x2="130.57" y2="742.93" />
+            <line class="cls-2" x1="144.33" x2="144.33" y2="742.93" />
+            <line class="cls-2" x1="158.09" x2="158.09" y2="742.93" />
+            <line class="cls-2" x1="171.85" x2="171.85" y2="742.93" />
+            <line class="cls-2" x1="185.61" x2="185.61" y2="742.93" />
+            <line class="cls-2" x1="199.36" x2="199.36" y2="742.93" />
+            <line class="cls-2" x1="213.12" x2="213.12" y2="742.93" />
+            <line class="cls-2" x1="226.88" x2="226.88" y2="742.93" />
+            <line class="cls-2" x1="240.64" x2="240.64" y2="742.93" />
+            <line class="cls-2" x1="254.4" x2="254.4" y2="742.93" />
+            <line class="cls-2" x1="268.15" x2="268.15" y2="742.93" />
+            <line class="cls-2" x1="281.91" x2="281.91" y2="742.93" />
+            <line class="cls-2" x1="295.67" x2="295.67" y2="742.93" />
+            <line class="cls-2" x1="309.43" x2="309.43" y2="742.93" />
+            <line class="cls-2" x1="323.18" x2="323.18" y2="742.93" />
+            <line class="cls-2" x1="336.94" x2="336.94" y2="742.93" />
+            <line class="cls-2" x1="350.7" x2="350.7" y2="742.93" />
+            <line class="cls-2" x1="364.46" x2="364.46" y2="742.93" />
+            <line class="cls-2" x1="378.22" x2="378.22" y2="742.93" />
+            <line class="cls-2" x1="391.97" x2="391.97" y2="742.93" />
+            <line class="cls-2" x1="405.73" x2="405.73" y2="742.93" />
+            <line class="cls-2" x1="419.49" x2="419.49" y2="742.93" />
+            <line class="cls-2" x1="433.25" x2="433.25" y2="742.93" />
+            <line class="cls-2" x1="447.01" x2="447.01" y2="742.93" />
+        </pattern>
+    </defs>
+    <polygon class="cls-3"
+        points="53.62 1137.49 67.09 1074.13 945.24 177.96 1444.19 643.83 1968.83 328.32 2291.68 638.39 2291.68 1137.49 53.62 1137.49" />
+    <polyline class="cls-4"
+        points="81.34 177.96 81.34 1098.82 499.58 629.22 706.76 797.92 921.7 622.79 1363.48 1098.82 2291.68 638.39 2291.68 1096.93" />
+    <circle class="cls-5" cx="81.34" cy="41.43" r="41.43" />
+    <circle class="cls-5" cx="2291.68" cy="1219.01" r="41.43" />
+</svg>
