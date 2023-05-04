@@ -15,7 +15,7 @@ Indexmonitor is a comprehensive securities market catalog that provides accurate
 
 ## Architecture Overview
 
-![1](https://user-images.githubusercontent.com/60474448/236180516-34a67d12-c361-4585-987a-207acaa6a502.svg)
+![1](https://user-images.githubusercontent.com/60474448/236243927-c5b3a0e3-05d8-4b25-876f-7e80150282b5.png)
 
 _The diagram does not include any container replication for simplicity._
 
@@ -40,7 +40,7 @@ For data persistence, PostgreSQL in a container with volume binding is used. Whi
 
 ## Deployment
 
-The deployment process is not handled by any CI/CD pipeline. After a few tries to use Jenkins for deployment automation, we found it to be overkill for this project. Renting one more VPS for this purpose is going out of the project's budget. Currently, the deployment process is tag-driven. Each tag represents a standard version (v0.0.0), and a new tag means a new Docker image build and publishing to Docker Hub. After that, the new version is rolled out on the VPS via command.
+The deployment process in this project is not managed by any CI/CD pipeline. Jenkins was considered for deployment automation, but it was overkill. Renting an additional VPS for deployment purposes exceeds the project's budget. The current deployment process is tag-driven, where each tag denotes a standard version (v0.0.0). When a new tag is created, a new Docker image is built and published to Docker Hub. Finally, the new version is rolled out on the VPS via command.
 
 ## Networking
 
