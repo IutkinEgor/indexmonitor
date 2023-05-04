@@ -1,6 +1,6 @@
 # Indexmonitor <img src="https://github.com/IutkinEgor/indexmonitor-assets/blob/main/logo/logo-primary.svg" height="60px">
 
-Indexmonitor is a comprehensive securities market catalog that provides accurate and up-to-date information on the stock market, including prices, company information, and historical data.
+[indexmonitor.info](https://indexmonitor.info/) is a comprehensive securities market catalog that provides accurate and up-to-date information on the stock market, including prices, company information, and historical data.
 
 ## Table of Contents
 
