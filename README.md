@@ -11,7 +11,6 @@
 - [Deployment](#deployment)
 - [Networking](#networking)
 - [Security](#security)
-- [Contributing](#contributing)
 
 ## Architecture Overview
 
