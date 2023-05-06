@@ -2,8 +2,9 @@
 
 [indexmonitor.info](https://indexmonitor.info/) is a comprehensive securities market catalog that provides accurate and up-to-date information on the stock market, including prices, company information, and historical data.
 
-## Table of Contents
+__The project’s primary goal__ was to go through all development stages, from idea to release, and deploy it on a VPS under my domain. The project is based on microservice architecture, contains multiple containerized services. I gained a solid understanding of the layers involved in setting up an application in a production environment, including Linux-based VPS, NGINX proxy, DNS name, server security management.
 
+## Table of Contents
 - [Architecture Overview](#architecture-overview)
 - [Clients](#clients)
 - [Microservices](#microservices)
