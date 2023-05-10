@@ -14,7 +14,7 @@ __The project’s primary goal__ was to go through all development stages, from 
 - [Security](#security)
 
 ## Architecture Overview
-![1](https://github.com/IutkinEgor/indexmonitor/assets/60474448/5594ec70-13c3-4b55-8e7f-abdcb7a881ad)
+![2](https://github.com/IutkinEgor/indexmonitor/assets/60474448/ca17ee35-1e91-4276-a89f-cdab62a9ed85)
 
 _The diagram does not include any container replication for simplicity._
 
