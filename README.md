@@ -14,8 +14,7 @@ __The project’s primary goal__ was to go through all development stages, from 
 - [Security](#security)
 
 ## Architecture Overview
-
-![1](https://user-images.githubusercontent.com/60474448/236243927-c5b3a0e3-05d8-4b25-876f-7e80150282b5.png)
+![1](https://github.com/IutkinEgor/indexmonitor/assets/60474448/5594ec70-13c3-4b55-8e7f-abdcb7a881ad)
 
 _The diagram does not include any container replication for simplicity._
 
@@ -33,6 +32,7 @@ The project follows modern best practices for microservice architecture. While i
 - **Stock Service**: This service is powered by the Spring Boot and Spring Security projects and behaves as an Eureka client that exposes REST API for securities access and control.
 - **Price Service**: This service is also powered by the Spring Boot and Spring Security projects and behaves as an Eureka client that exposes REST API for securities price access and control.
 - **Discovery Server**: This server is powered by Spring Cloud Eureka Server and provides high-level integrity between services.
+- **News Server**
 
 ## Data Persistence
 
