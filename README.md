@@ -5,6 +5,7 @@
 __The project’s primary goal__ was to go through all development stages, from idea to release, and deploy it on a VPS under my domain. The project is based on microservice architecture, contains multiple containerized services. I gained a solid understanding of the layers involved in setting up an application in a production environment, including Linux-based VPS, NGINX proxy, DNS name, server security management.
 
 ## Table of Contents
+- [History](#history)
 - [Architecture Overview](#architecture-overview)
 - [Clients](#clients)
 - [Microservices](#microservices)
@@ -12,6 +13,19 @@ __The project’s primary goal__ was to go through all development stages, from 
 - [Deployment](#deployment)
 - [Networking](#networking)
 - [Security](#security)
+
+## History
+The project was initially created to practice new programming skills and best practices and it has gone through several iterations since its inception in the summer of 2021.
+
+The first release in August 2021 was built on C# + .NET Core 3.1 and featured a monolithic back-end with an Angular 11 client.
+
+In December 2021, the project moved to .NET 5.0 with separated layers, incorporating significant changes, such as adding base OAuth 2.0 with Identity Server 4, cleaning up the API according to REST standards, and incorporating Angular Material as the main style engine on the client. Additionally, the project's client saw the first usage of ChartJS and NgRX. However, at this point, the client was not adaptive for different screen sizes.
+
+From January 2022, the project was on hold for six months due to my decision to switch from C# + .NET to Java + Spring. In the summer of 2022, the project moved to a new platform with the first attempt at microservices architecture. Many features were lost in the transition, but the resulting code was cleaner and aligned with the current stack.
+
+In November 2022, the primary focus was on developing a custom OAuth2 server with a client for management. The project switched to the own OAuth Server, built on top of Spring Security, in March 2023. During this time, many other services underwent significant changes and improvements.
+
+In April 2023, the first public release was made under the domain indexmonitor.info on a VPS. Before release, the main client was also refactored with complete NgRx utilization and now has screen-adaptive pages. The current goal is to improve test coverage and utilize orchestration solution
 
 ## Architecture Overview
 ![2](https://github.com/IutkinEgor/indexmonitor/assets/60474448/ca17ee35-1e91-4276-a89f-cdab62a9ed85)
